@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Kimberly, a poet and researcher (very endearing combo) on the job hunt. You can take a look at my portfolio here. If you think I'd be a good fit, please reach out on **[LinkedIn](www.linkedin.com/in/kimberly-c-hall)**!
 
 <!--
 **KimberlyCHall/KimberlyCHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
